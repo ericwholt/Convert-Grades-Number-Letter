@@ -1,0 +1,7 @@
+C:\Users\fatmo\Grand Circus\Labs\Bonus\1\Convert-Grades-Number-Letter\Convert-Grades-Number-Letter\obj\Debug\Convert-Grades-Number-Letter.csprojAssemblyReference.cache
+C:\Users\fatmo\Grand Circus\Labs\Bonus\1\Convert-Grades-Number-Letter\Convert-Grades-Number-Letter\obj\Debug\Convert-Grades-Number-Letter.csproj.CoreCompileInputs.cache
+C:\Users\fatmo\Grand Circus\Labs\Bonus\1\Convert-Grades-Number-Letter\Convert-Grades-Number-Letter\bin\Debug\Convert-Grades-Number-Letter.exe.config
+C:\Users\fatmo\Grand Circus\Labs\Bonus\1\Convert-Grades-Number-Letter\Convert-Grades-Number-Letter\bin\Debug\Convert-Grades-Number-Letter.exe
+C:\Users\fatmo\Grand Circus\Labs\Bonus\1\Convert-Grades-Number-Letter\Convert-Grades-Number-Letter\bin\Debug\Convert-Grades-Number-Letter.pdb
+C:\Users\fatmo\Grand Circus\Labs\Bonus\1\Convert-Grades-Number-Letter\Convert-Grades-Number-Letter\obj\Debug\Convert-Grades-Number-Letter.exe
+C:\Users\fatmo\Grand Circus\Labs\Bonus\1\Convert-Grades-Number-Letter\Convert-Grades-Number-Letter\obj\Debug\Convert-Grades-Number-Letter.pdb
