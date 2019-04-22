@@ -63,7 +63,7 @@ namespace Convert_Grades_Number_Letter
                 {
                     Console.WriteLine("Letter Grade: D-");
                 }
-                else if (grade >= 0 && grade <= 60)
+                else if (grade >= 0 && grade <= 59)
                 {
                     Console.WriteLine("Letter Grade: F");
                 }
